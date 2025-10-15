@@ -30,13 +30,13 @@ This project is a **Voice-Activated Banking System** that allows customers to pe
 ### Backend 🔙:
    - **Streamlit**: Handles both frontend and backend seamlessly
    - **Session State Management**: User authentication and data persistence
-   - **Audio Processing**: Real-time voice recording and processing
+   - **Audio Processing**: Real-time voice recording and processing using Librosa, Wave
 
 ### Voice Technology 🎤:
    - **SpeechRecognition**: Google Speech-to-Text API integration
    - **PyAudio**: Real-time audio recording from microphone
-   - **Voice Biometrics**: Custom voice feature extraction and matching
-   - **Audio Processing**: WAV file handling and feature extraction
+   - **Voice Biometrics**: Custom voice feature extraction and matching(Cosine Similarity between feature vector)
+   - **Audio Processing**: WAV file handling and feature extraction(MFCC Features)
 
 ## How to Run the Project 🚀
 
@@ -65,6 +65,22 @@ This project is a **Voice-Activated Banking System** that allows customers to pe
    1. **Voice Enrollment**: Navigate to "Voice Enrollment" and record your voice print
    2. **Login**: Use voice authentication or manual PIN login
    3. **Start Banking**: Begin using voice commands for transactions
+
+
+## 📸 Screenshots
+
+Screenshots are available in the `/Screenshots` folder.  
+Example:
+
+![Img1](Screenshots/Img1.png)
+![Img2](Screenshots/Img2.png)
+![Img3](Screenshots/Img3.png)
+![Img4](Screenshots/Img4.png)
+![Img5](Screenshots/Img5.png)
+![Img6](Screenshots/Img6.png)
+![Img7](Screenshots/Img7.png)
+
+---
 
 ## Voice Command Examples 🎯
 
