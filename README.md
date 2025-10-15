@@ -22,19 +22,6 @@ This project is a **Voice-Activated Banking System** that allows customers to pe
      - Instant voice-to-text conversion
      - Automated transaction processing
 
-### 3. **Admin Dashboard** 🖥️
-   - **Admin Login** 🔑:
-     - The admin can log in using the credentials:
-       - **Username**: `Girijesh` 🧑‍💼
-       - **Password**: `User1` 🔒
-       - **Username**: `Hari` 👨‍💼  
-       - **Password**: `User2` 🔒
-   - **Dashboard** 📊:
-     - Real-time transaction monitoring
-     - Account balance tracking
-     - Voice authentication analytics
-     - Interactive charts and visualizations
-
 ## Technologies Used 🧑‍💻
 
 ### Frontend 🌐:
