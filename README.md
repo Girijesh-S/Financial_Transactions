@@ -35,7 +35,7 @@ This project is a **Voice-Activated Banking System** that allows customers to pe
 ### Voice Technology 🎤:
    - **SpeechRecognition**: Google Speech-to-Text API integration
    - **PyAudio**: Real-time audio recording from microphone
-   - **Voice Biometrics**: Custom voice feature extraction and matching(Cosine Similarity between feature vector)
+   - **Voice Biometrics**: Custom voice feature extraction and matching(Cosine Similarity between feature vectors)
    - **Audio Processing**: WAV file handling and feature extraction(MFCC Features)
 
 ## How to Run the Project 🚀
